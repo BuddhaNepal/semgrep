@@ -18,6 +18,7 @@
   <a href="https://pypi.org/project/semgrep/">
     <img alt="PyPI" src="https://img.shields.io/pypi/v/semgrep?style=flat-square&color=blue">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FBuddhaNepal%2Fsemgrep?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FBuddhaNepal%2Fsemgrep.svg?type=shield"/></a>
   <a href="https://semgrep.dev/docs/">
       <img src="https://img.shields.io/badge/docs-semgrep.dev-purple?style=flat-square" alt="Documentation" />
   </a>
@@ -209,3 +210,7 @@ $ python3 -m pip install --upgrade semgrep
 # Using Docker
 $ docker pull returntocorp/semgrep:latest
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBuddhaNepal%2Fsemgrep.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBuddhaNepal%2Fsemgrep?ref=badge_large)
